@@ -1,3 +1,8 @@
 favorite:
   food: pizza
-  drink: "coffee"
+  drink: coffee
+pizzaToppings:
+  - mushrooms
+  - cheese
+  - peppers
+  - onions
