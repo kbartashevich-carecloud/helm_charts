@@ -1,1 +1,3 @@
-favoriteDrink: coffee
+favorite:
+  food: pizza
+  drink: "coffee"
